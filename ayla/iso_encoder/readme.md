@@ -1,4 +1,4 @@
-# Echo Keyboards: Ayla80 
+# Echo Keyboards: Ayla (80)
 
 *A short description of the keyboard/project*
 
