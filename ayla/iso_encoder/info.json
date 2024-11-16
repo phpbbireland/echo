@@ -1,0 +1,11 @@
+{
+    "keyboard_name": "ayla",
+    "manufacturer": "Michael O'Toole",
+    "url": "",
+    "maintainer": "phpbbireland",
+    "usb": {
+        "pid": "0x6178",
+        "vid": "0xFEED",
+        "device_version": "0.0.1"
+    }
+}
