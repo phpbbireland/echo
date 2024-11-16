@@ -1,6 +1,4 @@
-# michaelo
-
-![michaelo](imgur.com image replace me!)
+# Echo Keyboards: Ayla80 
 
 *A short description of the keyboard/project*
 
