@@ -1,12 +1,11 @@
 {
     "manufacturer": "Michael O'Toole",
     "keyboard_name": "ayla",
-    "url": "https://github.com/phpbbireland/mioke80",
+    "url": "https://github.com/phpbbireland/echo",
     "maintainer": "phpbbireland",
     "development_board": "blackpill_f411",
     "bootloader": "stm32-dfu",
     "diode_direction": "COL2ROW",
-
     "features": {
         "bootmagic": true,
         "command": false,
