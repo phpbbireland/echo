@@ -1,10 +1,12 @@
 # echo keyboard ayla
 
-*This code if for the 6x17 matrix with rotary encoder*
+*This code is for the new 6x17 matrix with rotary encoder version of the board*
 
 * Keyboard Maintainer: [Michael O'Toole](https://github.com/phpbbireland)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
+* Loads in usevia.app...
+* iso and ansi...
 
 Make example for this keyboard (after setting up your build environment):
 
