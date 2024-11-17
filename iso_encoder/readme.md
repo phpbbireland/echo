@@ -1,8 +1,6 @@
-# michaelo
+# echo keyboard ayla
 
-![michaelo](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
+*Uses a 6x17 matrix and added rotary encoder*
 
 * Keyboard Maintainer: [Michael O'Toole](https://github.com/phpbbireland)
 * Hardware Supported: *The PCBs, controllers supported*
@@ -10,11 +8,11 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make michaelo:default
+    make echo/iso_encoder:via 
 
 Flashing example for this keyboard:
 
-    make michaelo:default:flash
+    qmk flash echo_iso_encoder_via.bin
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
