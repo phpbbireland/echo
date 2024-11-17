@@ -1,0 +1,2 @@
+make echo/iso_encoder:via
+qmk flash echo_iso_encoder_via.bin
