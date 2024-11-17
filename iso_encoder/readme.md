@@ -1,6 +1,6 @@
 # echo keyboard ayla
 
-*Uses a 6x17 matrix and added rotary encoder*
+*This code if for the 6x17 matrix with rotary encoder*
 
 * Keyboard Maintainer: [Michael O'Toole](https://github.com/phpbbireland)
 * Hardware Supported: *The PCBs, controllers supported*
