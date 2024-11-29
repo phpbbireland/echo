@@ -1,4 +1,4 @@
-/* Copyright (C) 2024 mioke
+/* Copyright (C) 2024 Michael O'Toole
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -17,9 +17,6 @@
 #pragma once
 
 #include_next <mcuconf.h>
-
-///#undef  STM32_LSE_ENABLED
-//#define STM32_LSE_ENABLED TRUE
 
 #undef  STM32_PLLM_VALUE
 #define STM32_PLLM_VALUE  8
