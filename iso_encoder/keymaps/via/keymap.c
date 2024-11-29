@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-// File: mioke/ayla80/keymaps/via/keymap.c
+// File: echo/iso_encoder/keymaps/via/keymap.c
 
 #include QMK_KEYBOARD_H
 
