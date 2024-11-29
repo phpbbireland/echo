@@ -8,6 +8,8 @@
 * Loads in usevia.app...
 * iso and ansi...
 
+Kicad Files: Echo_Ayla_Final
+
 Make example for this keyboard (after setting up your build environment):
 
     make echo/iso_encoder:via 
