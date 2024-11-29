@@ -14,6 +14,8 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+// My dev board uses a 16Mhz crystal... https://hackaday.io/project/198392-keyboard-development-boards-qmk-via
+
 #pragma once
 
 #include_next <board.h>
