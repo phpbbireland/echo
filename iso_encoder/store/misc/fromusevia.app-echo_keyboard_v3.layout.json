@@ -2,7 +2,7 @@
   "name": "Echo Keyboard V3",
   "vendorProductId": 4276969849,
   "macros": [
-    "130656{KC_ENT}",
+    "1306{KC_ENT}",
     "1306{KC_ENT}",
     "{+KC_LCTL}c{-KC_LCTL}",
     "{+KC_LCTL}v{-KC_LCTL}",
