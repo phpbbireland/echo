@@ -1,4 +1,4 @@
-/* Copyright (C) 2024 Michael O'Toole
+/*/* Copyright (C) 2024 Michael O'Toole
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -15,9 +15,11 @@
  */
 
 #pragma once
-
 #include_next <mcuconf.h>
 
+/*
+  Settings for 16Mhz crystal
+*/
 #undef  STM32_PLLM_VALUE
 #define STM32_PLLM_VALUE  8
 
@@ -30,3 +32,17 @@
 #undef  STM32_PLLQ_VALUE
 #define STM32_PLLQ_VALUE  4
 
+/*
+  STM32 PWM Settings
+*/
+
+#undef  STM32_PWM_USE_TIM4
+#define STM32_PWM_USE_TIM4 TRUE
+
+#undef  STM32_PWM_USE_ADVANCED
+#define STM32_PWM_USE_ADVANCED TRUE
+
+#undef  STM32_I2C_USE_I2C1
+#define STM32_I2C_USE_I2C1 TRUE
+
+//ref /home/Mike/STM32CubeMX/Projects/New2/
