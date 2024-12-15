@@ -1,4 +1,4 @@
-# echo keyboard ayla
+# echo keyboard ayla STM32F411
 
 *This code is for the new 6x17 matrix with rotary encoder version of the board*
 
