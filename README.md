@@ -5,9 +5,11 @@ Models included are:
 + Alya: ayla80 (iso/ansi)
 + Cashel: cashel100 (ansi/iso)
 + Mioke: xpad (macro/num pad)
-+ Echo: test code for RP2040 ayla80 (iso), Two versions, rgblight & rgb_matrix.
++ Echo: test code for RP2040 ayla80 (iso).
 
-The standard keyboard code works for all, but RGB has not beed set up yet.
-To put it simply, I don't know how to implement it as my attempts result in compile errors.  
+I'm building/compiling two versions, one with rgblight & one with rgb_matrix.
 
-New vesion with RP2040 should have working RGB, awaiting [module test board](https://hackaday.io/project/198392/log/237192-rp2040-version).
+The current STM32F411 keyboard code works for all versions, however, the RGB does not work currently.
+To put it simply, I don't know how to implement the RGB code as including it resulted in compile errors.
+
+A new keyboard vesion using the RP2040 should have working RGB, I'm awaiting my [module test board](https://hackaday.io/project/198392/log/237192-rp2040-version).
