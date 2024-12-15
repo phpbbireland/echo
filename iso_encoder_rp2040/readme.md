@@ -1,1 +1,2 @@
-# FEDEVEL Custom Keyboard
+# Echo Keyboard with PR2040
+Using RGB Matrix...
