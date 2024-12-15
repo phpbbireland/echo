@@ -94,14 +94,6 @@ bool encoder_update_kb(uint8_t index, bool clockwise)
     return true;
 }
 
-
-
-
-
-
-
-
-
 void keyboard_pre_init_user(void) {
   setPinOutput(GP26);
 }
