@@ -1,0 +1,12 @@
+Compile success as of: 15th Dec @ 22:55
+
+I'm using rgblight in this code, not rgbmatrix...
+
+These files require edits: 
+keyboard.json 
+
+info.json and 
+
+config.h ... remove this line: #define RGB_MATRIX_LED_COUNT 99
+
+Kicad code: /media/Dev2/2025/KeyboardBuild/echo_keyboard_rp2040_module/RP2024_Module/
