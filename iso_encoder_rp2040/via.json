@@ -1,5 +1,5 @@
 {
-    "name": "Echo ISO RGB V1.4",
+    "name": "Echo ISO RP V1.0",
     "vendorId": "FEED",
     "productId": "0x6179",
     "matrix": { "rows": 6, "cols": 18 }
@@ -18,9 +18,10 @@
           },
           "0,1",
           {
-            "c": "#AAAAAA"
+            "c": "#AAAAAA",
+            "x": 1
           },
-          "0,2\n\n\n\n\n\n\n\n\ne0",
+
           "0,3",
           "0,4",
           "0,5",
@@ -46,7 +47,7 @@
           },
           "0,15",
           "0,16",
-          "0,17"
+          "0,17\n\n\n\n\n\n\n\n\ne0"
         ],
         [
           {
