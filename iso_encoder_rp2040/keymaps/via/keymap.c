@@ -15,7 +15,7 @@
  */
 
 // File: echo/iso_encoder/keymaps/via/keymap.c
-// Last compiles 26th Dec 2024, no errors...
+// Last compiles 26th Dec 2024 ...
 
 #include QMK_KEYBOARD_H
 
@@ -69,11 +69,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 };
 
 //ENCODER_MAP_ENABLE is set to yes in rules.mk
-
 #if defined(ENCODER_MAP_ENABLE)
 const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][NUM_DIRECTIONS] = {
     [BASE] =   { ENCODER_CCW_CW(KC_VOLD, KC_VOLU) },
-    [FN]   =   { ENCODER_CCW_CW(UG_PREV, UG_NEXT) },
+    [FN]   =   { ENCODER_CCW_CW(KC_VOLD, KC_VOLU) },
     [FNM]  =   { ENCODER_CCW_CW(UG_HUED, UG_HUEU) },
     [FNW]  =   { ENCODER_CCW_CW(RGB_VAI, RGB_VAD) }
     //
