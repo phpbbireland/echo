@@ -5,23 +5,6 @@
     "processor": "RP2040",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
-    "usb": {
-        "device_version": "1.0.0",
-        "pid": "0x6179",
-        "vid": "0x0003"
-    },    
-    "ws2812": {
-        "pin": "GP29",
-        "driver": "vendor"
-    },
-    "indicators": {
-        "caps_lock": "GP25",
-        "on_state": 1
-    },
-    "encoder": {
-        "enabled": true,
-        "rotary": [ {"pin_a": "GP26", "pin_b": "GP27", "resolution": 4} ]
-    },
     "matrix_pins": {
         "cols": ["GP0", "GP1", "GP2", "GP3", "GP4", "GP5", "GP6", "GP7", "GP8", "GP9", "GP10", "GP11", "GP12", "GP13", "GP14", "GP16", "GP17", "GP18"],
         "rows": ["GP19", "GP20", "GP21", "GP22", "GP23", "GP24"]
@@ -36,9 +19,10 @@
         "rgblight": false,
         "backlight": false
     },
+
     "rgb_matrix": {
         "driver": "ws2812",
-        "max_brightness": 220,
+        "max_brightness": 200,
         "animations": {
             "breathing": true,
             "cycle_all": true,
@@ -61,7 +45,7 @@
         "layout":[
             { "flags": 4, "matrix": [0, 0],  "x":  0, "y": 0},
             { "flags": 4, "matrix": [0, 1],  "x": 16, "y": 0},
-            { "flags": 4, "matrix": [0, 2],  "x": 41, "y": 0},
+
             { "flags": 4, "matrix": [0, 3],  "x": 53, "y": 0},
             { "flags": 4, "matrix": [0, 4],  "x": 65, "y": 0},
             { "flags": 4, "matrix": [0, 5],  "x": 78, "y": 0},
@@ -166,12 +150,29 @@
         ],
         "sleep": true
     },
+
+
+
+    "ws2812": {
+        "pin": "GP29",
+        "driver": "vendor"
+    },
+    "indicators": {
+        "caps_lock": "GP25",
+        "on_state": 1
+    },
+    "encoder": {
+        "enabled": true,
+        "rotary": [
+            {"pin_a": "GP26", "pin_b": "GP27", "resolution": 4}
+        ]
+    },
     "layouts": {
         "LAYOUT_iso": {
             "layout": [
                 {"label": "RESET  K000 (C8,C13)",  "matrix": [0,  0], "x": 0,     "y": 0},
                 {"label": "ESC    K001 (C8,C14)",  "matrix": [0,  1], "x": 1.25,  "y": 0},
-                {"label": "EN     K002 (C8,C15)",  "matrix": [0,  2], "x": 2.25,  "y": 0},
+
                 {"label": "F1     K003 (C8,C0)",   "matrix": [0,  3], "x": 3.25,  "y": 0},
                 {"label": "F2     K004 (C8,C1)",   "matrix": [0,  4], "x": 4.25,  "y": 0},
                 {"label": "F3     K005 (C8,C2)",   "matrix": [0,  5], "x": 5.25,  "y": 0},
@@ -186,7 +187,7 @@
                 {"label": "F12    K014 (C8,C5)",   "matrix": [0, 14], "x": 15.25, "y": 0},
                 {"label": "PTSCR  K015 (C8,B0)",   "matrix": [0, 15], "x": 16.5,  "y": 0},
                 {"label": "SCRLK  K016 (C8,B1)",   "matrix": [0, 16], "x": 17.5,  "y": 0},
-                {"label": "PAUSE  K017 (C8,B2)",   "matrix": [0, 17], "x": 18.5,  "y": 0},
+                {"label": "EN     K017 (C8,B2)",   "matrix": [0, 17], "x": 18.5,  "y": 0},
 
                 {"label": "P1     K100 (C7,C13)",  "matrix": [1,  0], "x": 0,     "y": 1.25},
                 {"label": "~      K101 (C7,C14)",  "matrix": [1,  1], "x": 1.25,  "y": 1.25},
@@ -276,5 +277,10 @@
                 {"label": "RIGHT  K517 (B13,B2)",  "matrix": [5, 17], "x": 18.5,  "y": 5.25}
             ]
         }
+    },
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x6179",
+        "vid": "0xFEED"
     }
 }
