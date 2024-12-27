@@ -9,7 +9,7 @@ Models included are:
 
 I'm building/compiling two versions, one with rgblight & one with rgb_matrix.
 
-The current STM32F411 keyboard code works for all versions, however, the RGB does not work currently.
+The current STM32F411 keyboard code works for all versions, however, the RGB not tested.
 To put it simply, I don't know how to implement the RGB code as including it resulted in compile errors.
 
 A new keyboard vesion using the RP2040 should have working RGB, I'm awaiting my [module test board](https://hackaday.io/project/198392/log/237192-rp2040-version).
