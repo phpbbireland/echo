@@ -191,7 +191,7 @@
                 {"label": "F10    K011 (GP19,GP11)",  "matrix": [0, 11], "x": 12.0,  "y": 0},
                 {"label": "F11    K012 (GP19,GP12)",  "matrix": [0, 12], "x": 13.0,  "y": 0},
                 {"label": "F12    K013 (GP19,GP13)",  "matrix": [0, 13], "x": 14.0,  "y": 0},
-                //{"label": "EN     K014 (GP19,GP14)",  "matrix": [0, 14], "x": 15.25, "y": 0},
+
                 {"label": "PTSCR  K015 (GP19,GP16)",  "matrix": [0, 15], "x": 16.5,  "y": 0},
                 {"label": "SCRLK  K016 (GP19,GP17)",  "matrix": [0, 16], "x": 17.5,  "y": 0},
                 {"label": "PAUSE  K017 (GP19,GP18)",  "matrix": [0, 17], "x": 18.5,  "y": 0},
@@ -208,7 +208,7 @@
                 {"label": "8      K109 (GP20,GP9)",   "matrix": [1,  9], "x": 9.25,  "y": 1.25},
                 {"label": "9      K110 (GP20,GP10)",  "matrix": [1, 10], "x": 10.25, "y": 1.25},
                 {"label": "0      K111 (GP20,GP11)",  "matrix": [1, 11], "x": 11.25, "y": 1.25},
-                {"label": "-      K112 (GP20,GP12)",  "matrix": [1, 12], "x": 12.25, "y": 1.25},
+                {"label": "-      K112 (GP20,GP12)",  "matrix": [1, 12], "x": 12.25, "y": 1.25},label
                 {"label": "=      K113 (GP20,GP13)",  "matrix": [1, 13], "x": 13.25, "y": 1.25},
                 {"label": "BAKSP  K114 (GP20,GP14)",  "matrix": [1, 14], "x": 14.25, "y": 1.25, "w": 2},
                 {"label": "INS    K115 (GP20,GP16)",  "matrix": [1, 15], "x": 16.5,  "y": 1.25},
