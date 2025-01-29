@@ -2,7 +2,7 @@
     "manufacturer": "Michael O'Toole",
     "keyboard_name": "echo",
     "maintainer": "phpbbireland",
-    "url": "https://github.com/phpbbireland/echo/tree/main/iso_encoder",
+    "url": "https://github.com/phpbbireland/echo/tree/main/iso_encoder_rp2040_er2",
     "usb": {
         "pid": "0x6179",
         "vid": "0xFEED",
