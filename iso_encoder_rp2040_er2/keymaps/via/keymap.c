@@ -15,7 +15,7 @@
  */
 
 // File: echo/iso_encoder/keymaps/via/keymap.c
-// Last compiles 26th Dec 2024 ...
+// Last compiles 28th Jan 2025 ... works...
 
 #include QMK_KEYBOARD_H
 
