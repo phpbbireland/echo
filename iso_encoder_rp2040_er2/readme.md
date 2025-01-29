@@ -1,1 +1,3 @@
 # Echo Keyboard
+
+This version only differs in location of rotary encoder...
