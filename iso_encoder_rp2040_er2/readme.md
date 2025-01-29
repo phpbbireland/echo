@@ -6,4 +6,4 @@ This version only differs in location of rotary encoder to the right, with sligh
 
 Load: usevia_er2.json in usevia for correct layout...
 
-The rgb files folder contain the rgb code not yet correct, iare these even required?
+The rgb files folder contain the (rgb code) not yet correct, not required for functioning keyboard, so what are they for?
