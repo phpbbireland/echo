@@ -2,9 +2,9 @@
   "name": "usevia_en017_brd2.json",
   "vendorProductId": 4276969849,
   "macros": [
-    "{+KC_LSFT}{20}m{12088}{-KC_LSFT}{20}i{20}k{20}e{20}{+KC_TAB}{20}{-KC_TAB}{20}1{20}3{20}0{20}6{20}5{20}6{20}{+KC_ENT}{30}{-KC_ENT}",
+    "{+KC_LSFT}{20}m{12088}{-KC_LSFT}{20}i{20}k{20}e{20}{+KC_TAB}{20}{-KC_TAB}{-KC_ENT}",
     "1{50}3{50}0{50}6{50}{+KC_ENT}{50}{-KC_ENT}",
-    "1{20}3{20}0{20}6{20}5{20}6{20}{+KC_ENT}{20}{-KC_ENT}",
+    "1{20}3{20}{+KC_ENT}{20}{-KC_ENT}",
     "",
     "",
     "",
