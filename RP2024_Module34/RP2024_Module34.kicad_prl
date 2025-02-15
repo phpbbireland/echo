@@ -68,7 +68,9 @@
       "Caps",
       "Net-(LED1-K)",
       "unconnected-(U4-SWD-Pad25)",
-      "unconnected-(U4-SWCLK-Pad24)"
+      "unconnected-(U4-SWCLK-Pad24)",
+      "Scroll",
+      "unconnected-(J3-Pin_5-Pad5)"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -139,7 +141,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "RP2024_Module.kicad_prl",
+    "filename": "RP2024_Module34.kicad_prl",
     "version": 3
   },
   "project": {
