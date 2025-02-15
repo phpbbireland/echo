@@ -181,7 +181,8 @@
         0.0,
         0.25,
         0.3,
-        0.4
+        0.4,
+        0.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -447,7 +448,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RP2024_Module.kicad_pro",
+    "filename": "RP2024_Module34.kicad_pro",
     "version": 1
   },
   "net_settings": {
