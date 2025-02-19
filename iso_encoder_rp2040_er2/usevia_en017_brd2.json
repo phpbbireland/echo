@@ -40,7 +40,9 @@
                   ["TYPING_HEATMAP", 14],
                   ["SOLID_REACTIVE_SIMPLE", 15],
                   ["SOLID_REACTIVE", 16],
-                  ["MATRIX_MULTISPLASH", 17]
+                  ["MATRIX_MULTISPLASH", 17],
+                  ["MATRIX_DIGITAL_RAIN", 18],
+                  ["MATRIX_RIVERFLOW", 19]
                 ]
               },
               {
