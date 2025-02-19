@@ -2,8 +2,7 @@
 Files to build the Basic Keyboard and RP2040 Keyboard Development Module
 
 These have been tested with the current code and work flawlessly...
-
-Models included are: 
+Included: 
 + RP2040_Fullsize_PCBWay_barebones... Basic Keyboard files used in all testing...
 + echo_keyboard_rp2040_module... Slightly smaller module, not produced yet...
 + echo_keyboard_rp2040_module_ori... This is the fully tested module I used in the build. 
