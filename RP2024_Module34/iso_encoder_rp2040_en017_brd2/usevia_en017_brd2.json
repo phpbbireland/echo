@@ -40,7 +40,9 @@
                   ["TYPING_HEATMAP", 14],
                   ["SOLID_REACTIVE_SIMPLE", 15],
                   ["SOLID_REACTIVE", 16],
-                  ["MATRIX_MULTISPLASH", 17]
+                  ["MATRIX_MULTISPLASH", 17],
+                  ["MATRIX_DIGITAL_RAIN", 18],
+                  ["MATRIX_RIVERFLOW", 19]
                 ]
               },
               {
@@ -252,12 +254,12 @@
           "4,9",
           "4,10",
           "4,11",
-          "4,13",
+          "4,12",
           {
             "c": "#AAAAAA",
             "w": 2
           },
-          "4,14",
+          "4,13",
           {
             "x": 0.25,
             "c": "#cccccc"
