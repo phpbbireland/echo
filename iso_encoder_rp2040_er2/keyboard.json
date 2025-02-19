@@ -64,7 +64,9 @@
             "solid_reactive_simple": true,
             "solid_reactive": true,
             "solid_reactive_cross": true,
-            "multisplash": true
+            "multisplash": true,
+            "digital_rain" : true,
+            "riverflow" : true,
         },
         "layout":[
             { "flags": 4, "matrix": [0, 0],  "x":  0, "y": 0},
