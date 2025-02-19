@@ -1,4 +1,8 @@
-            { "flags": 4, "matrix": [0, 0],  "x":  0, "y": 0},
+Current layout for rgb, based on https://github.com/sadekbaroudi/keyboard-guides/blob/master/firmware/qmk/RGB_MATRIX/RGB_MATRIX.md.
+Not perfect yet... needs some tweaks... Used SOLID_REACTIVE_SIMPLE effect to establish accuracy of positioning...
+
+"layout":[
+{ "flags": 4, "matrix": [0, 0],  "x":  0, "y": 0},
             { "flags": 4, "matrix": [0, 1],  "x": 15, "y": 0},
             { "flags": 4, "matrix": [0, 3],  "x": 36, "y": 0},
             { "flags": 4, "matrix": [0, 4],  "x": 48, "y": 0},
@@ -101,3 +105,4 @@
             { "flags": 4, "matrix": [5, 2],  "x":200, "y": 64},
             { "flags": 4, "matrix": [5, 1],  "x":212, "y": 64},
             { "flags": 4, "matrix": [5, 0],  "x":224, "y": 64}
+],
