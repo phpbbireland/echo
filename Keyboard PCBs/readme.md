@@ -1,8 +1,7 @@
 # Keyboard PCB's
 A repository for Keyboard PCB's Kicad Files.
 
-**Basic Keyboard PCB**  
-A basic Keyboard should include:  
+**Basic Keyboard PCB** (includes):  
 + Hot-Swappable MX Connectors,
 + Diodes,
 + RBG Leds, 
