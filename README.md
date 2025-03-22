@@ -14,6 +14,6 @@ The current STM32F411 keyboard code works for all versions, however, the RGB not
 
 A new keyboard vesion using the RP2040 should have working RGB, I'm awaiting my [module test board](https://hackaday.io/project/198392/log/237192-rp2040-version).
 
-**Upddates**  
+**Latest Updates**  
 I have switched to my RP2040 Development Module as everything works perfectly, no more issues with RGB...
 Going forward, I will use this for all development but may revisit my STM32F411 development board later...
