@@ -6,6 +6,7 @@ Models included are:
 + Cashel: cashel100 (ansi/iso)
 + Mioke: xpad (macro/num pad)
 + Echo: test code for RP2040 ayla80 (iso).
++ EN015_60_AKL (iso)
 
 I'm building/compiling two versions, one with rgblight & one with rgb_matrix.
 
