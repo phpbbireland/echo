@@ -1,7 +1,7 @@
 # Keyboard PCB's
 A repository for Keyboard PCB's Kicad Files.
 
-**Basic Keyboard PCB** (includes):  
+**Basic Keyboard PCB**  
 + Hot-Swappable MX Connectors,
 + Diodes,
 + RBG Leds, 
@@ -10,7 +10,6 @@ A repository for Keyboard PCB's Kicad Files.
 
 All my Basic Keeyboards use a 34 pin 1.27mm connector (see images)...
 
-Includes: 
 + A range of Basic Keyboard PCB's
 + Number Pad with Macros and Rotary Encoder
 + A 60% keyboard with 6 macro keys (inspired by my AKKO M1)...
