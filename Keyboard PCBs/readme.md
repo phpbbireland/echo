@@ -2,8 +2,14 @@
 A repository for Keyboard PCB's Kicad Files.
 
 **Basic Keyboard PCB**  
-The include: Hot-Swappable MX Connectors, Diodes, RBG Leds, Rotart Encoder and a 34 pin 1.27MM connector.
-They do not have a processor, they rely on a developmwent module such as my RP2040 Module or BlackPill etc...
+A basic Keyboard should include:  
++ Hot-Swappable MX Connectors,
++ Diodes,
++ RBG Leds, 
++ Rotart Encoder
++ A connector to connect to a development module (processor) such as RP2040 or BlackPill.
+
+All my Basic Keeyboards use a 34 pin 1.27mm connector (see images)...
 
 Includes: 
 + A range of Basic Keyboard PCB's
