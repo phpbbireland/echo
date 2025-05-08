@@ -1,8 +1,9 @@
 # Echo Keyboard
 
-**This is the main code for Echo keyboard (iso_encoder_rp2040_er2)**
+**This is the main code for Echo keyboard (iso_encoder_rp2040_er2)**  
 Complete test 19/02/2025, 100% working...  
 
+New Sysem build, I had forgotten about these commands..  
 qmk compile -kb echo/iso_encoder_rp2040_en017_brd -km via  
 make echo/iso_encoder_rp2040_en017_brd2:via  
 
