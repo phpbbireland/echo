@@ -1,11 +1,10 @@
 # Echo Keyboard
 
 **This is the main code for Echo keyboard (iso_encoder_rp2040_er2)**
-Complete test 19/02/2025, 100% working...
+Complete test 19/02/2025, 100% working...  
 
-
-qmk compile -kb echo/iso_encoder_rp2040_en017_brd -km via
-make echo/iso_encoder_rp2040_en017_brd2:via
+qmk compile -kb echo/iso_encoder_rp2040_en017_brd -km via  
+make echo/iso_encoder_rp2040_en017_brd2:via  
 
 [usevia.app image](https://github.com/phpbbireland/echo/blob/main/iso_encoder_rp2040_er2/images/usevia.app_image.png)
 
