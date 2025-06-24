@@ -1,7 +1,6 @@
-# Echo EN014
-Code for EN014 Keyboard (June 24th)   
+# Echo EN014 Keyboard Code (June 24th)
 
-**Files should be inside qmk_firmware/keyboards/echo/**
+**Copy file to: qmk_firmware/keyboards/echo/**
 
 For via use: usevia_en014_june.json  
 
