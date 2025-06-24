@@ -1,6 +1,6 @@
 # Echo EN014 Keyboard Code (June 24th)
 
-+Create an **echo** directory inside: qmk_firmware/keyboards/
++Create an **echo** directory inside: qmk_firmware/keyboards/  
 +Copy all files to qmk_firmware/keyboards/echo
 +Change to qmk_firmware directory
 +Compile with: make echo/en014_june:via    
