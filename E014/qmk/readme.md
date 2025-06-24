@@ -6,6 +6,9 @@
 + Compile with: make echo/en014_june:via    
 + Copy resulting file (echo_en014_june_via.uf2) to the Module Board (Version 2.x)  
 
+**Note**
+echo.c and echo.h are not required, all RGB matrix data now in keyboard.json.  
+
 **Testing**  
 1 In **Chrome** browser, browse to: https://usevia.app/  
 2 Authorize the Keyboard, select: Michael O'Toole Echo  
