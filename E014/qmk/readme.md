@@ -12,4 +12,5 @@
 3 Click on the *Design Icon* and select (browse to the) usevia_en014_june.json file.  
 
 **Notes**  
-The RGB is working but in the *Solid Reactive Option* rows 2,4,6 are reversed... how do I set RGB matrix to correct this?  
+The RGB is working but in the *Solid Reactive Option* rows 2,4,6 are reversed...  
+If anyone knows how to correct for zig zag RGB matrix, let me know?
