@@ -1,11 +1,10 @@
 # Echo EN014 Keyboard Code (June 24th)
 
-+Create an **echo** directory inside: qmk_firmware/keyboards/  
-+Copy all files to qmk_firmware/keyboards/echo
-+Change to qmk_firmware directory
-+Compile with: make echo/en014_june:via    
-
-Copy resulting file in qmk_firmwasre directory to the Module Board (Version 2.x)  
++ Create an **echo/en014_june** directory inside: qmk_firmware/keyboards/  
++ Copy all files to qmk_firmware/keyboards/echo/en014_june
++ Change back to the qmk_firmware directory
++ Compile with: make echo/en014_june:via    
++ Copy resulting file (echo_en014_june_via.uf2) to the Module Board (Version 2.x)  
 
 **Testing**  
 In Chrome browser, enter usevia.app in address bar...
