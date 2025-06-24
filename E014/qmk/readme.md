@@ -6,13 +6,13 @@
 + Compile with: make echo/en014_june:via    
 + Copy resulting file (echo_en014_june_via.uf2) to the Module Board (Version 2.x)  
 
-**Note**
+**Note:**
 echo.c and echo.h are not required, all RGB matrix data now in keyboard.json.  
 
-**Testing**  
+**Testing:**  
 1 In **Chrome** browser, browse to: https://usevia.app/  
 2 Authorize the Keyboard, select: Michael O'Toole Echo  
 3 Click on the *Design Icon* and select (browse to the) usevia_en014_june.json file.  
 
-**Notes**  
+**More Notes:**  
 The RGB is working but in the *Solid Reactive Option* rows 2,4,6 are reversed...  **Fixed!**
