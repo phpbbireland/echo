@@ -15,4 +15,4 @@ echo.c and echo.h are not required, all RGB matrix data now in keyboard.json.
 3 Click on the *Design Icon* and select (browse to the) usevia_en014_june.json file.  
 
 **More Notes:**  
-The RGB is working but in the *Solid Reactive Option* rows 2,4,6 are reversed...  **Fixed!**
+...
