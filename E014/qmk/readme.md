@@ -11,7 +11,7 @@ echo.c and echo.h are not required, all RGB matrix data now in keyboard.json.
 
 **Testing:**  
 1 In **Chrome** browser, browse to: https://usevia.app/  
-2 Authorize the Keyboard, select: Michael O'Toole Echo  
+2 Authorize the Keyboard, select: *Michael O'Toole Echo*  
 3 Click on the *Design Icon* and select (browse to the) usevia_en014_june.json file.  
 
 **More Notes:**  
