@@ -12,4 +12,4 @@
 3 Click on the *Design Icon* and select (browse to the) usevia_en014_june.json file.  
 
 **Notes**  
-The RGB is working but in the *Solid Reactive Option* rows 2,4,6 are reversed...  Fixed!
+The RGB is working but in the *Solid Reactive Option* rows 2,4,6 are reversed...  **Fixed!**
