@@ -7,8 +7,9 @@
 + Copy resulting file (echo_en014_june_via.uf2) to the Module Board (Version 2.x)  
 
 **Testing**  
-In Chrome browser, enter usevia.app in address bar...
-Authioorize Keyboard, then click Design Icon and select the usevia_en014_june.json file   
+1 In Chrome browser, enter usevia.app in address bar...  
+2 Authioorize the Keyboard... 
+3 Click on the *Design Icon* and select (browse to the) usevia_en014_june.json file.  
 
 **Notes**  
 The RGB is working but in the *Solid Reactive Option* rows 2,4,6 are reversed... how do I set RGB matrix to correct this?  
