@@ -1,6 +1,9 @@
 # Echo EN014
 
-Contains electronic files for en014 june 24th
-usevia.app: usevia_en014_june.json
+**Files should be inside qmk_firmware/keyboards/echo/**
 
-make echo/en014_june:via
+Code for EN014 Keyboard (June 24th)  
+usevia.app: usevia_en014_june.json  
+
+Compile: make echo/en014_june:via  
+
