@@ -17,6 +17,6 @@ echo.c and echo.h are not required, will remove them, all RGB matrix data now in
 **More Notes:**  
 Tested keyboard operation (and RGB), with *Keyboard Development Module* version 2.0, everything perfect... 
 
-**3d printed Keyboard Case case**
+**3d Print Files (Keyboard Case)**
 Case too big for most printers, I used OrcaSlicer to cut in two, turned out perfect.
 Both top and bottom print in two parts, will add stl's later
