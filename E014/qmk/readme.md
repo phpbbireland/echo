@@ -18,5 +18,5 @@ echo.c and echo.h are not required, will remove them, all RGB matrix data now in
 Tested keyboard operation (and RGB), with *Keyboard Development Module* version 2.0, everything perfect... 
 
 **3d Print Files (Keyboard Case)**
-Case too big for most printers, I used OrcaSlicer to cut in two, turned out perfect.
-Both top and bottom print in two parts, will add stl's later
+Case too big for single print, my Voron is 300x300mm, I used OrcaSlicer to cut in two, turned out perfect.
+Both top and bottom print in two parts (dah!), will add stl's later
