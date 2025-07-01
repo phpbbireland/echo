@@ -16,7 +16,7 @@ echo.c and echo.h are not required, will remove them (appears to be old method),
 4 You may need to go back to step 2 and select keyboard again (I do), then test away...  
 
 **More Notes:**  
-Tested keyboard operation and RGB, with *Keyboard Development Module* version 2.0, module and code work perfectly.
+Tested keyboard operation and RGB, with *Keyboard Development Module* version 2.0, module and code work perfectly.  
 EN014 keyboard was designed to work with Module 2.x (the version with the 34 pin connector)...  
 
 **3d Print Files (Keyboard Case)**
