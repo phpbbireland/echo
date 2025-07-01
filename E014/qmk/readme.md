@@ -20,5 +20,4 @@ Tested keyboard operation and RGB, with *Keyboard Development Module* version 2.
 EN014 keyboard was designed to work with Module 2.x (the version with the 34 pin connector)...  
 
 **3d Print Files (Keyboard Case)**
-Case too big for single print, my Voron is 300x300mm, I used OrcaSlicer to cut in two, turned out perfect.
-Both top and bottom print in two parts (dah!), will add stl's later
+Redesigned case with FreeCAD and exported stl's in two parts (both top and bottom are two parts). The main (bottom) part uses a dove tail joint to allow better alignment. The top has a simple joint.
