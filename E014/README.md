@@ -9,3 +9,4 @@ Files require addition libraries: marbastlib, ScottoKeebs and library containing
 The EN014 Keyboard PCB ![PCB](https://github.com/phpbbireland/echo/blob/main/E014/images/EN014_PCB_2025-06-18_05-26-11.png)  
 Use Via App window: ![usevia](https://github.com/phpbbireland/echo/blob/main/E014/images/usevia_1.png)
 ![usevia](https://github.com/phpbbireland/echo/blob/main/E014/images/usevia_2.png)
+![usevia](https://github.com/phpbbireland/echo/blob/main/E014/images/usevia_3.png)
