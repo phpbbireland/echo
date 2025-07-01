@@ -19,5 +19,5 @@ echo.c and echo.h are not required, will remove them (appears to be old method),
 Tested keyboard operation and RGB, with *Keyboard Development Module* version 2.0, module and code work perfectly.  
 EN014 keyboard was designed to work with Module 2.x (the version with the 34 pin connector)...  
 
-**3d Print Files (Keyboard Case)**
+**3d Print Files (Keyboard Case)**  
 Redesigned case with FreeCAD and exported stl's in two parts (both top and bottom are two parts). The main (bottom) part uses a dove tail joint to allow better alignment. The top has a simple joint.
