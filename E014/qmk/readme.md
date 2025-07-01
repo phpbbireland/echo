@@ -22,6 +22,5 @@ EN014 keyboard was designed to work with Module 2.x (the version with the 34 pin
 **3d Print Files (Keyboard Case)**  
 Redesigned case with FreeCAD and exported stl's in two parts (both top and bottom are two parts). The main (bottom) part uses a dove tail joint to allow better alignment. The top has simple joints but should connect correctly.  If anyone wants the original file just let me know...  
 
-[Case] (https://github.com/phpbbireland/echo/blob/main/E014/images/case.png)
-[Case Top] (https://github.com/phpbbireland/echo/blob/main/E014/images/case-top.png)
-
+[Case](https://github.com/phpbbireland/echo/blob/main/E014/images/case.png)  
+[Case Top](https://github.com/phpbbireland/echo/blob/main/E014/images/case-top.png)  
