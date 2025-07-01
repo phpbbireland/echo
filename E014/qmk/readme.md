@@ -7,12 +7,13 @@
 + Copy resulting file (echo_en014_june_via.uf2) to the Module Board (Version 2.x)  
 
 **Note:**
-echo.c and echo.h are not required, will remove them, all RGB matrix data now in keyboard.json.  
+echo.c and echo.h are not required, will remove them (appears to be old method), all RGB matrix data now in keyboard.json.  
 
-**Testing:**  
+**Testing the Module:**  
 1 In **Chrome** browser, browse to: https://usevia.app/  
 2 Authorize the Keyboard, select: *Michael O'Toole Echo*  
-3 Click on the *Design Icon* and select (browse to the) usevia_en014_june.json file.  
+3 Click on the *Design Icon* and browse to the **usevia_en014_june.json** file, select it.  
+4 Test away...  
 
 **More Notes:**  
 Tested keyboard operation (and RGB), with *Keyboard Development Module* version 2.0, everything perfect... 
