@@ -1,6 +1,6 @@
-# echo EN014 (ISO)
+# echo EN014
 
-**Files for KiCad**  
+**Files for KiCad (ISO)**  
 Final Basic Keyboard (EN014) June 18th 2024.  
 Includes Plate files...  
 Keyboard Layout Editer [Image, col/row numbering](https://github.com/phpbbireland/echo/blob/main/E014/images/kle_en014_keyboard_layout.png)  
