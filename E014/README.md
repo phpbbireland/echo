@@ -1,4 +1,4 @@
-# echo EN014
+# echo EN014 (ISO)
 
 **Files for KiCad**  
 Final Basic Keyboard (EN014) June 18th 2024.  
