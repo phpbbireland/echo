@@ -24,5 +24,5 @@ I have designed a 3D printed enclosure/case for the Keyboard, both printed in tw
 Will also included the keyboard plate print (again in two parts) as it is much cheaper than any other material and has a pleasant sound compared to other materials...
 
 **Key Switches**  
-I used Holy Panda Tactile Keyboard Switch form Ali, less than €20 for 110 switches (they are now my preferred switch on all my keyboards).  
+I used Holy Panda Keyboard Switch form Ali, nder €20 for 110 switches (they are now my preferred switch on all my keyboards).  
 For reference: Holy Panda Tactile Keyboard Switch 3 Pin 55g  
