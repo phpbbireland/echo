@@ -15,11 +15,11 @@ Use Via App window: ![usevia](https://github.com/phpbbireland/echo/blob/main/E01
 I have designed a 3D printed enclosure/case for the Keyboard, both printed in two parts with dove tail for best fit/alignment. See echo/EN14/images folder for case.png and case-top.png.
 Will also included the keyboard plate print (again in two parts) as it is much cheaper than any other material and has a pleasant sound compared to other materials...
 
+![Case](https://github.com/phpbbireland/echo/blob/main/E014/images/case.png)  
+![Case Top](https://github.com/phpbbireland/echo/blob/main/E014/images/case-top.png)  
+
 **Key Switches:**  
 I used Holy Panda Keyboard Switch form Ali, nder €20 for 110 switches (they are now my preferred switch on all my keyboards).  
 For reference: Holy Panda Tactile Keyboard Switch 3 Pin 55g  
-
-![Case](https://github.com/phpbbireland/echo/blob/main/E014/images/case.png)  
-![Case Top](https://github.com/phpbbireland/echo/blob/main/E014/images/case-top.png)  
 
  
