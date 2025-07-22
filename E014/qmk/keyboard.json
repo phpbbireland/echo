@@ -2,7 +2,7 @@
     "manufacturer": "Michael O'Toole",
     "keyboard_name": "EN014_June",
     "maintainer": "phpbbireland",
-    "url": "https://github.com/phpbbireland/echo/tree/main/iso_encoder",
+    "url": "https://github.com/phpbbireland/echo/tree/main/E014",
     "usb": {
         "pid": "0x6177",
         "vid": "0xFEED",
