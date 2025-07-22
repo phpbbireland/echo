@@ -11,9 +11,15 @@ Use Via App window: ![usevia](https://github.com/phpbbireland/echo/blob/main/E01
 ![usevia](https://github.com/phpbbireland/echo/blob/main/E014/images/usevia_2.png)
 ![usevia](https://github.com/phpbbireland/echo/blob/main/E014/images/usevia_3.png)  
 
-**3d Print Files (Keyboard Case)**  
-Redesigned case with FreeCAD and exported stl's in two parts (both top and bottom are two parts). The main (bottom) part uses a dove tail joint to allow better alignment. The top has simple joints but should connect correctly.  If anyone wants the original file just let me know...  
+**Printed Case & Plate:**  
+I have designed a 3D printed enclosure/case for the Keyboard, both printed in two parts with dove tail for best fit/alignment. See echo/EN14/images folder for case.png and case-top.png.
+Will also included the keyboard plate print (again in two parts) as it is much cheaper than any other material and has a pleasant sound compared to other materials...
+
+**Key Switches:**  
+I used Holy Panda Keyboard Switch form Ali, nder €20 for 110 switches (they are now my preferred switch on all my keyboards).  
+For reference: Holy Panda Tactile Keyboard Switch 3 Pin 55g  
 
 ![Case](https://github.com/phpbbireland/echo/blob/main/E014/images/case.png)  
 ![Case Top](https://github.com/phpbbireland/echo/blob/main/E014/images/case-top.png)  
 
+ 
