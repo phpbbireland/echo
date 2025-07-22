@@ -19,7 +19,7 @@ echo.c and echo.h are not required, will remove them (appears to be old method),
 Tested keyboard operation and RGB, with *Keyboard Development Module* version 2.0, module and code work perfectly.  
 EN014 keyboard was designed to work with Module 2.x (the version with the 34 pin connector)...  
 
-**Printed Case & Plate**  
-I have designed a 3D printed enclosure/case for the Keyboard, both printed in two parts with dove tail for best fit/alignment. See echo/EN14/images folder for case.png and case-top.png.  
+**Printed Case & Plate:**  
+I have designed a 3D printed enclosure/case for the Keyboard, both printed in two parts with dove tail for best fit/alignment. See echo/EN14/images folder for case.png and case-top.png.
 Will also included the keyboard plate print (again in two parts) as it is much cheaper than any other material and has a pleasant sound compared to other materials...
 
