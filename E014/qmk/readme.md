@@ -23,6 +23,6 @@ EN014 keyboard was designed to work with Module 2.x (the version with the 34 pin
 I have designed a 3D printed enclosure/case for the Keyboard, both printed in two parts with dove tail for best fit/alignment. See echo/EN14/images folder for case.png and case-top.png.
 Will also included the keyboard plate print (again in two parts) as it is much cheaper than any other material and has a pleasant sound compared to other materials...
 
-**Key Switches**  
+**Key Switches:**  
 I used Holy Panda Keyboard Switch form Ali, nder €20 for 110 switches (they are now my preferred switch on all my keyboards).  
 For reference: Holy Panda Tactile Keyboard Switch 3 Pin 55g  
