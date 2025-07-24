@@ -7,7 +7,7 @@ Models included are:
 + Mioke: xpad (macro/num pad)
 + Echo: test code for RP2040 ayla80 (iso).
 + EN015_60_AKL (iso)
-+ EN014 (iso)
++ EN014 (iso) June 2025
 
 The current STM32F411 keyboard code works for all versions, however, the RGB is not tested, to put it simply, I don't know how to implement the RGB code as including it resulted in compile errors, best use the RP2040 modulesfor now.  
 
