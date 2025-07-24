@@ -1,7 +1,7 @@
 # echo EN014
 
 **Files for KiCad (ISO)**  
-Final Basic Keyboard (EN014) June 18th 2024.  
+Final Basic Keyboard (EN014) June 18th 2025.  
 Includes Plate files...  
 Keyboard Layout Editer [Image, col/row numbering](https://github.com/phpbbireland/echo/blob/main/E014/images/kle_en014_keyboard_layout.png)  
 Files require addition libraries: marbastlib, ScottoKeebs and library containing SK6812-E, will add soon or you can find these on github...  
