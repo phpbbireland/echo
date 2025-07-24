@@ -7,6 +7,7 @@ Models included are:
 + Mioke: xpad (macro/num pad)
 + Echo: test code for RP2040 ayla80 (iso).
 + EN015_60_AKL (iso)
++ EN014
 
 I'm building/compiling two versions, one with rgblight & one with rgb_matrix.
 
