@@ -17,6 +17,6 @@ Moved on to version 2.x of the Keyboard Development Modules (these have a single
 I have switched to my RP2040 Development Module as everything works perfectly, no more issues with RGB...  
 Going forward, I will use this for all development but may revisit my STM32F411 development board later...
 
-**Notes**
+**Notes**  
 On Keyboad PCB, the 34 pin connetor is mounted on components (bottom side) of PCB.
 On moules the 34 pin connector is mounted on ***bottom*** of PCB, not the component side, the image supplied does not reflect this.
