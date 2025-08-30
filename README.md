@@ -18,5 +18,5 @@ I have switched to my RP2040 Development Module as everything works perfectly, n
 Going forward, I will use this for all development but may revisit my STM32F411 development board later...
 
 **Important Notes**  
-On all my Keyboad PCB's, the 34 pin connetor is mounted on component side (bottom) of PCB.
+On all my Keyboad PCB's, the 34 pin connetor is mounted on component side (bottom) of PCB.  
 On moules the 34 pin connector is mounted on ***bottom*** of PCB, not the component side (top), some images supplied, do not reflect this.
