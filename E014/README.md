@@ -23,3 +23,5 @@ Will also included the keyboard plate print (again in two parts) as it is much c
 I used Holy Panda Keyboard Switch form Ali, under €20 for 110 switches (they are now my preferred switch on all my keyboards).  
 For reference: Holy Panda Tactile Keyboard Switch 3 Pin 55g  
 
+**Macro Key:**  
+M0 to M9 are Macro Keys, program as required...
