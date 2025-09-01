@@ -5,6 +5,8 @@ Final Basic Keyboard (EN014) June 18th 2025.
 Includes Plate files...  
 Keyboard Layout Editer [Image, col/row numbering](https://github.com/phpbbireland/echo/blob/main/E014/images/kle_en014_keyboard_layout.png)  
 Files require addition libraries: marbastlib, ScottoKeebs and library containing SK6812-E, will add soon or you can find these on github...  
+**Macro Key:**  
+M0 to M9 are Macro Keys, program as required...  
 
 The EN014 Keyboard PCB ![PCB](https://github.com/phpbbireland/echo/blob/main/E014/images/EN014_PCB_2025-06-18_05-26-11.png)  
 Use Via App window: ![usevia](https://github.com/phpbbireland/echo/blob/main/E014/images/usevia_1.png)
@@ -23,5 +25,3 @@ Will also included the keyboard plate print (again in two parts) as it is much c
 I used Holy Panda Keyboard Switch form Ali, under €20 for 110 switches (they are now my preferred switch on all my keyboards).  
 For reference: Holy Panda Tactile Keyboard Switch 3 Pin 55g  
 
-**Macro Key:**  
-M0 to M9 are Macro Keys, program as required...
