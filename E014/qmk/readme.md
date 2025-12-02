@@ -21,8 +21,8 @@ EN014 keyboard was designed to work with Module 2.x (the version with the 34 pin
 
 Contains electronic files for en014 june 24th
 
-**File to load with usevia.app**
+**File to load with usevia.app**  
 usevia_en014_june.json
 
-**Compile command for QMK**
+**Compile command for QMK**  
 make echo/en014_june:via
