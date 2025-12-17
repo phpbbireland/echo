@@ -24,3 +24,5 @@ On moules with a 34 pin connector, it is mounted on ***bottom*** of PCB, not the
 
 **Revision D**
 ![Module](https://github.com/phpbbireland/echo/blob/main/Module34D/ModuleD.png)
+Connector now mounted on component side,,,  
+
