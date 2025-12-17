@@ -21,3 +21,6 @@ Going forward, I will use this for all development but may revisit my STM32F411 
 On all my Keyboad PCB's, the 34 pin connetor is mounted on component side (bottom) of PCB.  
 On moules with a 34 pin connector, it is mounted on ***bottom*** of PCB, not the component side (top), see image below.  
 ![Module](https://github.com/phpbbireland/echo/blob/main/Module34C/module_cononbot.png)
+
+**Revision D**
+![Module](https://github.com/phpbbireland/echo/blob/main/Module34D/ModuleD.png)
