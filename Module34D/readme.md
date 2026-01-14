@@ -10,4 +10,5 @@ Tested with [Basic Keyboard](https://github.com/phpbbireland/echo/tree/main/E014
 
 There are three Keyboard Modules (latest Rev 2D) to give away, thanks to PCBWay, if you are interested in trying out the module, contact me at my [Hackaday Link](https://hackaday.io/project/198392-keyboard-development-module-qmk-via)  
 
-
+**These files may have updates, please check pin naming and orintation before prooceeding***  
+I will update as time allows...
