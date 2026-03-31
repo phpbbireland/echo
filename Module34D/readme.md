@@ -3,7 +3,7 @@
 Micros: RP2040  
 ![Module](https://github.com/phpbbireland/echo/blob/main/Module34D/ModuleD.png)  
 
-Software Support: QMK/VIA  
+Software Support: [QMK/VIA](https://github.com/phpbbireland/echo/tree/main/E014/qmk)  
 Switches: MX type hot-swappable  
 Keys: Up to 119 Keys (including Macro Keys) + Encoder Switch  
 Rotary Encoder: Volume / RGB.  
