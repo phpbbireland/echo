@@ -12,3 +12,5 @@ There are three Keyboard Modules (latest Rev 2D) to give away, thanks to PCBWay,
 
 **These files may have updates, please check pin naming and orintation before prooceeding***  
 I will update as time allows...
+
+[!https://github.com/phpbbireland/echo/blob/main/Module34D/ModuleD.png]
