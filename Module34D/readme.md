@@ -1,6 +1,8 @@
 **Version D**
 
 Micros: RP2040  
+![Module](https://github.com/phpbbireland/echo/blob/main/Module34D/ModuleD.png)  
+
 Software Support: QMK/VIA  
 Switches: MX type hot-swappable  
 Keys: Up to 119 Keys (including Macro Keys) + Encoder Switch  
@@ -12,5 +14,3 @@ There are three Keyboard Modules (latest Rev 2D) to give away, thanks to PCBWay,
 
 **These files may have updates, please check pin naming and orintation before prooceeding***  
 I will update as time allows...
-
-![Module](https://github.com/phpbbireland/echo/blob/main/Module34D/ModuleD.png)
